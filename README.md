@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Always starting a new course but never a new project!
+
+My goal this year is 
+- to have a proper Portfolio 🖼
+- finish the career from CoderHouse 🔒
+- maybe trying some freelancer work! 🧨
 <!--
 **ale-huaman/ale-huaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
